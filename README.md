@@ -1,5 +1,7 @@
 # chord test
 
+A program with which you can easily practice playing special chords or keys on a MIDI keyboard. Furthermore there is a TTS (text to speech) support.
+
 ## Setup
 
 ### Linux
@@ -17,3 +19,9 @@
 2. Download [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
 
 3. `py -m pip install -r requirements.txt`
+
+## Preview
+
+![chord](assets/chord.png)
+
+![chord with keys](assets/chord_with_keys.png)
