@@ -1,0 +1,4 @@
+colorama
+rtmidi
+gtts
+playsound
