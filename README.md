@@ -4,15 +4,17 @@ A program with which you can easily practice playing special chords or keys on a
 
 **The MIDI module (`rtmidi`) is not supported on Windows!**
 
-## Setup
+## Setup on Ubuntu
 
 1. `sudo apt update`
 
-2. `sudo apt install python3-pip ffmpeg libasound2-dev`
+2. `sudo apt install git python3-pip ffmpeg libasound2-dev`
 
-3. `python3 -m pip install -r requirements.txt`
+3. `git clone https://github.com/X-Gamer-Guide/chord-test.git`
 
-4. `python3 main.py`
+4. `python3 -m pip install -r requirements.txt`
+
+5. `python3 main.py`
 
 ## Preview
 
