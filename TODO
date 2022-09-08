@@ -2,3 +2,4 @@
 - Possibility to disable TTS
 - Fix KeyboardInterrupt exception on ctrl + C
 - Better README (maybe a GIF or more pictures)
+- Better TTS
